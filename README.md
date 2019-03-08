@@ -49,6 +49,7 @@ Open PowerShell here as admin and start your app with node: `node app.js`
 1. <http://localhost:3002/yo/Lohita>
 1. <http://localhost:3002/yo/Rahul>
 1. <http://localhost:3002/yo/Teja>
+1. <http://localhost:3002/Vijay>
 
 ## Modify and Restart
 
