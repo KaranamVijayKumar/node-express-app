@@ -3,3 +3,12 @@ h1{
     text-align: center;
 }
 
+.background_image{
+    height: 100%;
+    position: relative;
+    opacity: 0.93;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
