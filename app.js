@@ -5,7 +5,7 @@ const path = require('path')
 const hostname = '0.0.0.0'   // set constants
 const port = 3002
 
-app.use(express.static(path.join(__dirname, './styles')))
+
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, '/home.html'))
