@@ -4,7 +4,7 @@
   "description": "A super simple web app with Node.js and the Express web framework",
   "main": "app.js",
   "dependencies": {
-    "express": "latest"
+    "express": "4.21.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
